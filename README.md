@@ -1,1 +1,1 @@
-# DecisiveAI-OpenTelemetry
+# OpenTelemetry-DecisiveAI
